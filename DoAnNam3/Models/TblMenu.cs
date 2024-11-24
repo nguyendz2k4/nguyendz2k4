@@ -12,5 +12,6 @@ namespace DoAnNam3.Models
         public string? Description { get; set; }
         public bool? Status { get; set; }
         public int? Position { get; set; }
+        
     }
 }

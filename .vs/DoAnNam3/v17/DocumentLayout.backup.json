@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vtrun\\source\\repos\\DoAnNam3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFEEFF8C-F448-48C6-A26C-75751AC7EA20}|DoAnNam3\\DoAnNam3.csproj|c:\\users\\vtrun\\source\\repos\\doannam3\\doannam3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFEEFF8C-F448-48C6-A26C-75751AC7EA20}|DoAnNam3\\DoAnNam3.csproj|solutionrelative:doannam3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFEEFF8C-F448-48C6-A26C-75751AC7EA20}|DoAnNam3\\DoAnNam3.csproj|c:\\users\\vtrun\\source\\repos\\doannam3\\doannam3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFEEFF8C-F448-48C6-A26C-75751AC7EA20}|DoAnNam3\\DoAnNam3.csproj|solutionrelative:doannam3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFEEFF8C-F448-48C6-A26C-75751AC7EA20}|DoAnNam3\\DoAnNam3.csproj|c:\\users\\vtrun\\source\\repos\\doannam3\\doannam3\\areas\\admin\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEEFF8C-F448-48C6-A26C-75751AC7EA20}|DoAnNam3\\DoAnNam3.csproj|solutionrelative:doannam3\\areas\\admin\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vtrun\\source\\repos\\DoAnNam3\\DoAnNam3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DoAnNam3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vtrun\\source\\repos\\DoAnNam3\\DoAnNam3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DoAnNam3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADoAAAAAAAAAAAAuwEgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T13:04:56.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vtrun\\source\\repos\\DoAnNam3\\DoAnNam3\\Program.cs",
-              "RelativeDocumentMoniker": "DoAnNam3\\Program.cs",
-              "ToolTip": "C:\\Users\\vtrun\\source\\repos\\DoAnNam3\\DoAnNam3\\Program.cs",
-              "RelativeToolTip": "DoAnNam3\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "C:\\Users\\vtrun\\source\\repos\\DoAnNam3\\DoAnNam3\\Areas\\Admin\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "DoAnNam3\\Areas\\Admin\\Controllers\\MenusController.cs",
+              "ToolTip": "C:\\Users\\vtrun\\source\\repos\\DoAnNam3\\DoAnNam3\\Areas\\Admin\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "DoAnNam3\\Areas\\Admin\\Controllers\\MenusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T08:42:29.389Z"
+              "WhenOpened": "2024-11-23T14:16:27.24Z",
+              "EditorCaption": ""
             }
           ]
         }
